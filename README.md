@@ -1,0 +1,2 @@
+# BookGenreDetection
+The project we’re working on aims to identify the genre(s) of a certain book simply by conducting an analysis on its front cover. This could be of great help in big libraries, where instead of a having a person look up the genre of a book manually, the librarian would just scan the cover of the book and let the program do the job on his/her behalf. The program would make the process go faster, smoother and less prone to mistakes - such as typing in the wrong genre for a book - mainly caused by human inattention.
