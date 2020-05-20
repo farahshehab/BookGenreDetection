@@ -29,10 +29,9 @@ which combines both visual and textual features (Multi-model LSTM&VGGNet)
 # Results
 Here are the results of our best models:
 
-Models | #LSTM | #BoW | #VGG | #Multi-Model 
+Models | LSTM | BoW | VGG | Multi-Model 
 --- | --- | --- | --- |--- 
 Top-1 Acc | 0.55 | 0.52 | 0.23 | 0.55 
---- | --- | --- | --- |--- 
 Top-3 Acc | 0.75 | 0.69 | 0.4 | 0.74 
 
 For more information about our approach check the paper and the poster in the repository.
